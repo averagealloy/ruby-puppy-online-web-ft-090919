@@ -13,5 +13,5 @@ class Dog
   def self.all
     @@all
   end
-  def 
+  def clear
 end
