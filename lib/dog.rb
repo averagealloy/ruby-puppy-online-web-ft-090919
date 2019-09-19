@@ -15,5 +15,5 @@ class Dog
       puts dog.name
     end
   end
-def self.clear
+def self.clear_all 
 end
