@@ -1,5 +1,5 @@
 # Add your code here
-class Do
+class Dog
 
   @@all = []
 
