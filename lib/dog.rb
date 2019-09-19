@@ -1,5 +1,5 @@
 # Add your code here
-class Song
+class Do
 
   @@all = []
 
