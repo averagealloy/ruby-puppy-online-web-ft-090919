@@ -17,6 +17,6 @@ class Dog
     @@all = []
   end
   def self.print_all
-    puts 
+    puts self.
   end
 end
