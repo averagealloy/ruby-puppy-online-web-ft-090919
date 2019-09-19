@@ -14,6 +14,6 @@ class Dog
     @@all
   end
   def clear_all
-    @@all.clear_a;
+    @@all.clear_all 
   end
 end
